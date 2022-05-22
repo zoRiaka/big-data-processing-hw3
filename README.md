@@ -2,6 +2,7 @@
 Third Homework for the UCU Big Data Processing course.
 
 Explanations are in explanations.pdf
+
 The results are stored in the screenshots folder.
 
 ## Usage:
