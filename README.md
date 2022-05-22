@@ -11,6 +11,7 @@ The results are stored in the screenshots folder.
 bash run-cluster.sh
 bash keyspace-tables.sh
 bash insert-for-test.sh
+bash queries.sh
 bash shutdown-cluster.sh
 ```
 ### NOTE:
